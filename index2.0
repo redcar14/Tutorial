@@ -6,37 +6,87 @@
   <body>
 
   </head>
-  <h1> Characters</h1>
+  <h1 style="color : red"> Characters</h1>
 
- All characters have different stats according to class size. Their stats determine how well the kart preforms as you drive on the road. The stats are speed, acceleration, weight, handling and traction. There are about 30 characters in the game and six extra for DLC. The smallest characters like Baby Mario or Baby Luigi aren't the best at speed or weight but make that up for their high acelleration, handling, and traction. The super heavy characters like Bowser or Wario accel in speed and weight but have low acceleration, handing, and traction. Here is a list of the available characters to play in the game.
-Sorry if this is boring to you.
- <img src=http://oyster.ignimgs.com/mediawiki/apis.ign.com/mario-kart-for-wii-u/thumb/b/b7/Mk8c1.png/468px-Mk8c1.png
- <h2>First Column of Characters (Going from Left to Right)</h3>
+<p>All characters have different stats according to class size. Their stats determine how well the kart preforms as you drive on the road. The stats are speed, acceleration, weight, handling and traction. There are about 30 characters in the game and six extra for DLC. The smallest characters like Baby Mario or Baby Luigi aren't the best at speed or weight but make that up for their high acelleration, handling, and traction. The super heavy characters like Bowser or Wario accel in speed and weight but have low acceleration, handing, and traction. Here is a list of the available characters to play in the game.
+Sorry if this is boring to you.</p>
+ <img src=http://oyster.ignimgs.com/mediawiki/apis.ign.com/mario-kart-for-wii-u/thumb/b/b7/Mk8c1.png/468px-Mk8c1.png>
+ <h2 style="color : orange">First Column of Characters (Going from Left to Right)</h2>
 
-       <li>
+       <li style="color : red">
         Mario: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
-        <li>
+        <li style="color : green">
         Luigi: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
-        <li>
+        <li style="color : pink">
         Peach: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
-        <li>
+        <li style="color : orange">
         Daisy: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
-        <li>
+        <li style="color : cyan">
         Rosalina: Weight: Cruiser/ Speed: 4.25/ Acceleration: 2.25/ Weight: 4.25/ Handling: 2.75/ Traction: 3.5
-        <li>
+        <li style="color : gray">
         Metal Mario: Weight: Metal/ Speed: 4.25/ Acceleration: 2/ Weight: 4.75/ Handling: 2.75/ Traction: 3.5
-        <h2>Second Column of Characters</h2>
-        <li>
+        <h2 style="color : yellow">Second Column of Characters</h2>
+        <li style="color : green">
         Yoshi: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
-        <li>
-        Toad: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
-        <li>
-        Koopa Troopa: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
-        <li>
-        Shy Guy: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
-        <li>
-        Lakitu: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
-        <li>
-        Toadette: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
-        <h2>Third Column of Characters</h2>
-        Baby Mario
+        <li style="color : blue">
+        Toad: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <li style="color : lime">
+        Koopa Troopa: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <li style="color : black">
+        Shy Guy: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <li style="color : cyan">
+        Lakitu: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <li style="color : pink">
+        Toadette: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <h2 style="color : green">Third Column of Characters</h2>
+        <li style="color : red">
+        Baby Mario: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : green">
+        Baby Luigi: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : pink">
+        Baby Peach: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : orange">
+        Baby Daisy: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : cyan">
+        Baby Rosalina: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : magenta">
+        Pink Gold Peach: Weight: Metal/ Speed: 4.25/ Acceleration: 2/ Weight: 4.75/ Handling: 2.75/ Traction: 3.5
+        <h2 style="color : blue">Fourth Column of Characters</h2>
+        <li style="color : red">
+        Bowser: Weight: Heavy/ Speed: 4.75/ Acceleration: 2/ Weight 4.75/ Handling: 2.25/ Traction: 3.25
+        <li style="color : brown">
+        Donkey Kong: Weight: Cruiser/ Speed: 4.25/ Acceleration: 2.25/ Weight: 4.25/ Handling: 2.75/ Traction: 3.5
+        <li style="color : purple">
+        Wario: Weight: Heavy/ Speed: 4.75/ Acceleration: 2/ Weight 4.75/ Handling: 2.25/ Traction: 3.25
+        <li style="color : indigo">
+        Waluigi: Weight: Cruiser/ Speed: 4.25/ Acceleration: 2.25/ Weight: 4.25/ Handling: 2.75/ Traction: 3.5
+        <li style="color : lime">
+        Iggy: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
+        <li style="color : magenta">
+        Roy: Weight: Cruiser/ Speed: 4.25/ Acceleration: 2.25/ Weight: 4.25/ Handling: 2.75/ Traction: 3.5
+        <h2 style="color : purple">Fourth Column of Characters</h2>
+        <li style="color : cyan">
+        Lemmy: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+       <li style="color : blue">
+        Larry: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+        <li style="color : pink">
+         Wendy: Weight: Light/ Speed: 2.75/ Acceleration: 3/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25
+         <li style="color : black">
+         Morton: Weight: Heavy/ Speed: 4.75/ Acceleration: 2/ Weight 4.75/ Handling: 2.25/ Traction: 3.25
+         <li style="color : blue">
+          Mii 1: Weight: Feather/ Speed: 2.25/ Acceleration: 3.25/ Weight: 2.25/ Handling: 4.75/ Traction: 4.5
+        <li style="color : blue">
+          Mii 2: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
+         <li style="color : blue">
+          Mii 3: Weight: Heavy/ Speed: 4.75/ Acceleration: 2/ Weight 4.75/ Handling: 2.25/ Traction: 3.25
+        </li>
+        <div>
+      <p> Out of all these characters, my favorites would have to be Mario or Luigi. I like how most of their stats are very balanced. I'm the kind of person who
+        likes to keep things in balance because I would feel unfomfortable if one thing were bigger than the other. If I was feeling reckless, I would go all out speed with Wario. With all the speed <head>
+        he carries, its an easy win for me.
+        <h1> Kart Customization Chart </h1>
+        <p> I forgot to mention about karts! Theres a list of all the custoizable kart parts there are in the game. All the credit for karts
+          goes to IGN.
+          <a href="http://www.ign.com/wikis/mario-kart-8/Vehicles_and_Customization">Kart Customization Guide Here! </a>
+        <menuitem type="" label="Save">
+        </head>
