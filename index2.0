@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+
+  </head>
+  <h1> Characters</h1>
+
+ All characters have different stats according to class size. Their stats determine how well the kart preforms as you drive on the road. The stats are speed, acceleration, weight, handling and traction. There are about 30 characters in the game and six extra for DLC. The smallest characters like Baby Mario or Baby Luigi aren't the best at speed or weight but make that up for their high acelleration, handling, and traction. The super heavy characters like Bowser or Wario accel in speed and weight but have low acceleration, handing, and traction. Here is a list of the available characters to play in the game.
+Sorry if this is boring to you.
+ <img src=http://oyster.ignimgs.com/mediawiki/apis.ign.com/mario-kart-for-wii-u/thumb/b/b7/Mk8c1.png/468px-Mk8c1.png
+ <h2>First Column of Characters (Going from Left to Right)</h3>
+
+       <li>
+        Mario: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
+        <li>
+        Luigi: Weight: Medium 2/ Speed: 3.75/ Acceleration: 2.5/ Weight: 3.75/ Handling: 3.25/ Traction: 3.75
+        <li>
+        Peach: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
+        <li>
+        Daisy: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
+        <li>
+        Rosalina: Weight: Cruiser/ Speed: 4.25/ Acceleration: 2.25/ Weight: 4.25/ Handling: 2.75/ Traction: 3.5
+        <li>
+        Metal Mario: Weight: Metal/ Speed: 4.25/ Acceleration: 2/ Weight: 4.75/ Handling: 2.75/ Traction: 3.5
+        <h2>Second Column of Characters</h2>
+        <li>
+        Yoshi: Weight: Medium 1/ Speed: 3.25/ Acceleration: 2.75/ Weight: 3.25/ Handling: 3.75/ Traction: 4
+        <li>
+        Toad: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
+        <li>
+        Koopa Troopa: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
+        <li>
+        Shy Guy: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
+        <li>
+        Lakitu: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
+        <li>
+        Toadette: Weight: Light/ Speed: 2.75/ Acceleration: 3.25/ Weight: 2.75/ Handling: 4.25/ Traction: 4.25/
+        <h2>Third Column of Characters</h2>
+        Baby Mario
