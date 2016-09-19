@@ -1,15 +1,15 @@
 
 h1 {
   color: silver;
-  background-color: black;
-  border: 5px dashed gold;
+  background-color: gray;
+  border: 5px solid black;
 
 }
 
 h2 {
-    color: blue;
+    color: black;
     background-color: silver;
-    border: 2px dashed gold;
+    border: 2px solid black;
     padding: 30x;
     margin: 5px;
     width: 400px;
